@@ -1,1 +1,12 @@
-Textfile for fizzbuzz kata
+Fizzbuzz kata is used regularly to practise simple TDD principle with Ruby and Rpsec
+
+Simply, numbers that are divisible by three must return 'fizz'.
+Numbers divisible by five must return 'buzz'.
+Numbers divisible by both three and five must return 'fizzbuzz'
+
+There are 2 practise efforts in this repo, but this kata is used occasionally to loosen the fingers ! 
+
+`````
+run in the terminal or on the text editor
+`````
+
